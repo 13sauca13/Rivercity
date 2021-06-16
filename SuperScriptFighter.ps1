@@ -1,7 +1,7 @@
 ﻿#Credenciales para invocar el comando en el servidor
 $credenciales=Get-Credential
 
-(new-object -ComObject wscript.shell).Popup("Va a ejecutar RIVERCITY SUPREMO by SuperSupervisor & ChicoSerio(SeriousL)
+(new-object -ComObject wscript.shell).Popup("Va a ejecutar RIVERCITY SUPREMO by SuperSupervisor
 Para Rivercity escriba ERC seguido del nivel de rivercity (ej. ERC1)
 Para LABTA escriba:
     LABTA0 (sin restricciones)
